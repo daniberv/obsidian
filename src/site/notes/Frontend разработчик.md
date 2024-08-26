@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/frontend-razrabotchik/"}
+{"dg-publish":true,"permalink":"/frontend-razrabotchik/","tags":["gardenEntry"]}
 ---
 
 
